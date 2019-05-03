@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">EVL2</string>
+    <string name="btn_search_text">Search</string>
 </resources>
